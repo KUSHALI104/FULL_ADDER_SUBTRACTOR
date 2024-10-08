@@ -102,11 +102,11 @@ endmodule
 
 ### FULL ADDER:
 
-![image](https://github.com/user-attachments/assets/e85b5d92-4112-48f6-a525-8e164b6e356f)
+![image](https://github.com/user-attachments/assets/939f0915-b640-4d41-87e5-637f45b4ec4d)
 
 ### FULL SUBTRACTOR:
 
-![image](https://github.com/user-attachments/assets/daa8b336-a1a1-4311-b055-9c51158a886e)
+![image](https://github.com/user-attachments/assets/03529146-0537-4836-ab2f-395d24c72c88)
 
 **Result:**
 
